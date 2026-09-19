@@ -8,9 +8,17 @@
 
 ## 📬 Connect with Me
 - 📧 Email: shawnorleans166@gmail.com
-- 💼 LinkedIn:
-[https://www.linkedin.com/in/shawn-orleans-s]
-(https://www.linkedin.com/in/shawn-orleans-s)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=180&section=header&text=Hi,%20I'm%20[Your%20Name]&fontSize=40&fontColor=ffffff" width="100%" />
+
+## 👤 About Me
+- 🎓 [Your major] student at [Your campus]
+- 🌱 Currently learning web development
+- 🤝 Working on the BNCC GitReady 2.0 project
+- 🎯 Goal: [e.g. become a front-end developer]
+
+## 📬 Connect with Me
+- 📧 Email: [your@email.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/shawn-orleans-s](https://linkedin.com/in/shawn-orleans-s)
 - 📸 Instagram: [https://instagram.com/_seanshawnsean_](https://instagram.com/_seanshawnsean_)
 
 ## 🛠️ Tech Stack & Tools
