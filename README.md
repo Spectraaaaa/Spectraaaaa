@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=180&section=header&text=Hi,%20I'm%20[Shawn%20Orleans]&fontSize=40&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=180&section=header&text=Hi,%20I'm%20Shawn%20Orleans&fontSize=40&fontColor=ffffff" width="100%" />
 
 ## 👤 About Me
 - 🎓 Automotive & Robotics Engineering student at BINUS ASO School of Engineering
