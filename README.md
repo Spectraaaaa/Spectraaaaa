@@ -2,19 +2,30 @@
 
 ## 👤 About Me
 - 🎓 Automotive & Robotics Engineering student at BINUS ASO School of Engineering
+- 💻 I can code in C++ and work with Arduino
 - 🌱 Currently learning machine learning
 - 🤝 Working on the BNCC GitReady 2.0 project
 - 🎯 Goal: Become a robotics engineer
 
 ## 📬 Connect with Me
-- 📧 Email: [shawnorleans166@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/shawn-orleans-s](https://linkedin.com/in/shawn-orleans-s)
-- 📸 Instagram: [https://instagram.com/_seanshawnsean_](https://instagram.com/_seanshawnsean_)
+- 📧 Email: shawnorleans166@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/shawn-orleans-s](https://linkedin.com/in/shawn-orleans-s)
+- 📸 Instagram: [@\_seanshawnsean\_](https://instagram.com/_seanshawnsean_)
 
 ## 🛠️ Tech Stack & Tools
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+
+
+
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 
 
 
@@ -30,3 +41,10 @@
 
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+
+## 📊 GitHub Stats
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spectraaaaa&show_icons=true&theme=tokyonight)
